@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_6ff7962c356c6ae443b9bc88cdd99276bc099fe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_15a3b92dc6af9cb00dbf7234da967c073844a3f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_8c791a0cc13085904bde69ef90216b20b6ffe585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_3764c4bd550dc34077195aaaa7f98d0b87853993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_38dfaec72d9294683d083365b25046a43871930b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_384df8e8129f899bae5bc9752e1793e8f0e00204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_005fbe9a294812d0074fda8757457582d41f0c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_926ec5919f4a5dc2c08ee221a0563fa1c64dfd79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_a77f7c78cc95b5459bbd268f9f02f8acf725972e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_75462ee2b3fd4d750b6f3a729d8668a01ca66db2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_aa06d20722d0777bff3f6a50088f60cf5124d3b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0abb12277e364bc8a07b178cc84d7bd7fd0b1941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_90fc2e89d3eaeac09cc07da554e8a0334718e9e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_63c43a1102f2db35058665768dd0d5dcbdfbc7fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_e9ff5b027808e167699bcc7db619d74873bc5b3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_574287e853508c63f5191400374445fbb8ad48cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_32071439ca3879d1630b98ce0c09d0561c8cef81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_cd54fb31499cf3304906c494cb946405178bad1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_b14ba53cc5ef81719cd8e3bac5d168ac67183f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/mobileApp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="001d8a96417bf5d83cb2759a3bb0d635101dda4c">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/mobileApp-react-native-vector-icons-unspecified_50a0f121ebb04dee24071fa19e2803eeb4c825b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_30af88e1c3bc84fb7c4c834208f49372c954d644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/maged/vodafone/reactTest/mobileApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_1bfcbbb24b6069b92f2fdab840329b3ac9fd4ceb.jar" />
+    </item>
+
+</items>
